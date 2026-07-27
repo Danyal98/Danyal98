@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Daniyal Akram</h1>
 
 <h3 align="center">
@@ -10,8 +9,8 @@ I build scalable backend systems, AI-powered applications, cloud infrastructure,
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+<a href="https://codewithdaniyal.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/daniyal-akram-95a188173/">LinkedIn</a> •
 <a href="mailto:daniyalakram94@gmail.com">Email</a>
 </p>
 
@@ -180,9 +179,9 @@ Built AI systems, cloud infrastructure and enterprise software for international
 
 📧 daniyalakram94@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn:[www.linkedin.com/in/daniyal-akram-95a188173](https://www.linkedin.com/in/daniyal-akram-95a188173/)
 
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio:[codewithdaniyal.vercel.app](https://codewithdaniyal.vercel.app/)
 
 ---
 
