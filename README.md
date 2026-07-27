@@ -1,66 +1,72 @@
+<!-- ========================================= -->
+<!--               HEADER                       -->
+<!-- ========================================= -->
+
 <h1 align="center">Hi 👋, I'm Daniyal Akram</h1>
 
 <h3 align="center">
-Senior Full Stack Engineer • Python Backend • AI Engineer
+Senior Full Stack Software Engineer • Python Backend • AI Engineer
 </h3>
 
 <p align="center">
-I build scalable backend systems, AI-powered applications, cloud infrastructure, and developer tools.
+Building AI-powered products, scalable backend systems and cloud-native applications.
 </p>
 
 <p align="center">
-<a href="https://codewithdaniyal.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/daniyal-akram-95a188173/">LinkedIn</a> •
-<a href="mailto:daniyalakram94@gmail.com">Email</a>
+<a href="https://codewithdaniyal.vercel.app/">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/daniyal-akram-95a188173/">💼 LinkedIn</a> •
+<a href="mailto:daniyalakram94@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Full Stack Software Engineer with 4+ years of experience building production-grade software used by businesses around the world.
+I'm a Full Stack Software Engineer with over **4 years of experience** building AI-driven platforms, cloud infrastructure, scalable APIs and SaaS products.
 
-My primary focus is backend engineering with Python, but I also enjoy building modern frontend applications, AI products, cloud-native systems, and developer tooling.
+My primary expertise lies in **Python backend engineering**, where I enjoy designing clean architectures, building high-performance systems and solving complex engineering challenges. Alongside backend development, I work extensively with AI, cloud platforms and modern frontend technologies to deliver complete production-ready solutions.
 
-I love solving difficult engineering problems, designing scalable architectures, and turning ideas into products.
-
----
-
-# 🚀 What I Do
-
-- 🤖 AI & LLM Applications
-- 🐍 Python Backend Development
-- ⚡ FastAPI & Django APIs
-- ☁️ Cloud Infrastructure
-- 🐳 Docker & Kubernetes
-- 📈 Scalable SaaS Platforms
-- 🔍 Computer Vision
-- 🧠 Retrieval Augmented Generation (RAG)
-- 🌐 React & TypeScript
+I enjoy turning ambitious ideas into software that is fast, scalable and enjoyable to use.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Current Focus
+
+- 🤖 Building AI-powered applications using LLMs
+- ⚡ Designing scalable backend architectures with Python
+- ☁️ Cloud-native development on AWS & Google Cloud
+- 🧠 Exploring AI Agents and Multi-Agent Systems
+- 🐳 Improving developer productivity through automation
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql" />
+</p>
 
 ### Backend
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
 
-### AI / Machine Learning
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,postgres,redis,linux" />
+</p>
+
+### AI & Data
 
 - OpenAI
 - GPT-4
@@ -70,14 +76,6 @@ I love solving difficult engineering problems, designing scalable architectures,
 - YOLO
 - Computer Vision
 - Embeddings
-
-### Cloud
-
-- AWS
-- Google Cloud Platform
-- Kubernetes
-- Docker
-- GitHub Actions
 - Apache Kafka
 - Apache NiFi
 - Airflow
@@ -86,47 +84,69 @@ I love solving difficult engineering problems, designing scalable architectures,
 
 # 🌟 Featured Projects
 
-## 🤖 Zory AI
+## 🤖 AI Interior Design Platform
 
-AI-powered interior design platform that recommends furniture using computer vision, embeddings and vector search.
+An AI-powered platform that helps users design home and office spaces using computer vision and intelligent product recommendations.
+
+**Highlights**
+
+- Product recommendation engine
+- Computer Vision
+- Vector Search
+- Merchant analytics
+- Role-based APIs
 
 **Tech**
 
-Python • Django • YOLO • Pinecone • PostgreSQL
+`Python` `Django` `YOLO` `Pinecone` `PostgreSQL`
 
 ---
 
-## 💬 Knowledge Based AI Chatbots
+## 💬 Enterprise AI Chatbots
 
-Built enterprise AI assistants capable of searching private company knowledge using GPT-4, Elasticsearch and vector databases.
+Built intelligent knowledge-based assistants capable of searching private company documentation using Retrieval-Augmented Generation.
+
+**Features**
+
+- GPT-powered responses
+- Semantic search
+- PDF ingestion
+- Enterprise knowledge base
+- Vector search
 
 ---
 
 ## 🤖 Discord Automation Platform
 
-Designed architecture for Discord bots featuring:
+Designed the architecture behind a customizable Discord platform featuring onboarding, payments, analytics, email verification and two-factor authentication.
 
-- Email Verification
-- Payments
-- 2FA
-- User Onboarding
-- Analytics
+**Tech**
 
-Built using FastAPI and Python.
+`FastAPI`
+`Discord.py`
+`Python`
 
 ---
 
-## 🚦 MyTrafficData
+## 🚦 Traffic Analytics Platform
 
-Cloud platform for analysing traffic and mobility data.
+Cloud-based platform for analysing mobility and traffic data used by transport agencies.
 
-Worked on scalable Django APIs, React frontend and secure cloud infrastructure.
+Worked on:
+
+- Django backend
+- React frontend
+- Security improvements
+- Reporting
+- Performance optimisation
 
 ---
 
 ## 📄 Intelligent Document Processing
 
-Built AI systems capable of extracting structured information from PDFs using:
+Built systems capable of extracting structured information from PDFs and scanned documents.
+
+Technologies included:
 
 - Google Vision
 - AWS Textract
@@ -135,54 +155,98 @@ Built AI systems capable of extracting structured information from PDFs using:
 
 ---
 
-# 💼 Experience
+# 🏗 Engineering Philosophy
+
+I enjoy designing software that is:
+
+- Clean
+- Scalable
+- Maintainable
+- Secure
+- Easy to extend
+
+I believe good architecture enables teams to move faster and products to grow without unnecessary complexity.
+
+---
+
+# 📈 What I Work With
+
+```text
+Frontend
+React • TypeScript • JavaScript
+
+Backend
+Python • Django • FastAPI • Flask
+
+AI
+OpenAI • RAG • Pinecone • Elasticsearch • YOLO
+
+Cloud
+AWS • Google Cloud • Docker • Kubernetes
+
+Databases
+PostgreSQL • SQL
+
+Automation
+GitHub Actions • Playwright • Airflow • Apache NiFi
+```
+
+---
+
+# 💼 Professional Experience
 
 ### Senior Software Engineer
 
 **BridgePlacement**
 
-Building AI-powered Discord products and backend services.
+Building AI-powered Discord products and scalable backend services.
+
+---
 
 ### Software Engineer
 
 **Inovaqo**
 
-Worked on AI, SaaS and cloud products including Zory AI and MyTrafficData.
+Worked on AI platforms, SaaS products and cloud-native applications.
+
+---
 
 ### Senior Software Engineer
 
 **ML Sense**
 
-Built AI systems, cloud infrastructure and enterprise software for international clients.
+Developed AI systems, cloud infrastructure and enterprise software for international clients.
 
 ---
 
 # 🏆 Achievements
 
-🏅 Winner — FAST Olympiad Speed Programming Contest
+🥇 Winner — FAST Olympiad Speed Programming Contest
 
-🏅 Winner — DLD Project Competition
+🥇 Winner — DLD Project Competition
 
 ---
 
-# 📚 Currently Exploring
+# 🌱 Currently Learning
 
 - AI Agents
 - Multi-Agent Systems
-- LLM Infrastructure
 - Distributed Systems
-- Event-Driven Architectures
+- Event-Driven Architecture
+- Large Scale System Design
 
 ---
 
 # 📫 Let's Connect
 
-📧 daniyalakram94@gmail.com
+📧 **daniyalakram94@gmail.com**
 
-💼 LinkedIn:[www.linkedin.com/in/daniyal-akram-95a188173](https://www.linkedin.com/in/daniyal-akram-95a188173/)
+🌐 **https://codewithdaniyal.vercel.app/**
 
-🌐 Portfolio:[codewithdaniyal.vercel.app](https://codewithdaniyal.vercel.app/)
+💼 **https://www.linkedin.com/in/daniyal-akram-95a188173/**
 
 ---
 
-> *"Great software isn't built by writing more code. It's built by solving the right problems."*
+<p align="center">
+<i>"Great software isn't measured by lines of code, but by the problems it solves."</i>
+</p>
